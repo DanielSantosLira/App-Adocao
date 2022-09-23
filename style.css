@@ -11,6 +11,9 @@ div {
     color: #1F9440;
     
 }
+h5{
+    margin: 21px;
+}
 
 header {
     text-align: center;
@@ -21,17 +24,30 @@ header {
 
 }
 
-.img {
-    width: 200px;
+.img{
+    margin: 10px;
+    width: 250px;
     border: 1px solid red;
     border-radius: 10px;
    
 }
 
 .img2 {
-    width: 200px;
+    width: 250px;
     border: 1px solid red;
     border-radius: 10px;
    
     
+}
+.img3{
+    align-items: center;
+    
+    border: 1px solid red;
+    border-radius: 10px;
+   
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    color: #606060;
 }
