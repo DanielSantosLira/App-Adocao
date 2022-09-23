@@ -55,15 +55,25 @@ header {
    
    
 }
-p{
+.p{
     text-align: center;
     font-size: 15px;
-    color: #606060;
+    color: #545454
 }
-button{
-    width: 122px;
-    height: 41px;
-    top: 656px;
-    left: 127px;
-    color: #1F9440;
+
+.button{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 270px;
+    height: 62px;
+   text-align: center;
+    left: 53px;
+    top: 646px;
+    background-color: #1F9440;
+    border-radius: 30px;
+    color:#ffffff ;
+
 }
