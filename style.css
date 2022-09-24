@@ -9,57 +9,25 @@ div {
     font-family: Arial, sans-serif;
     font-weight: 700px;
     color: #1F9440;
-    
-}
-div p{
-    
-   
-  color: #1F9440;
-}
-h5{
-    margin: 21px;
+    border-radius: 30px;
 }
 
 header {
     text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 15px;
-
-
-}
-
-.img{
-    margin: 10px;
-    width: 200px;
-    border: 1px solid red;
-    border-radius: 10px;
-   
-}
-
-.img2 {
-    width: 200px;
-    border: 1px solid red;
-    border-radius: 10px;
-   
-    
-}
-.img3{
-    width: 357px;
-    height: 346px;
-    align-items: center;
-    left: 0px;
-    top: 0px;
-    border: 1px solid red;
+    padding: 20px;
     border-radius: 30px;
-   
-   
+
+
 }
-.p{
-    text-align: center;
-    font-size: 15px;
-    color: #545454
+img{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    border: 1px solid red;
 }
+
 
 .button{
     font-family: Arial;
