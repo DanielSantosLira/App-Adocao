@@ -4,9 +4,9 @@
 }
 body{
     
-   width:500px;
    margin: auto;
    padding: 20px;
+ 
 } 
 div{
    
@@ -26,6 +26,7 @@ div{
 p{
    font-size: 20px;
    padding:20px;
-   color:#1F9440
+   color:#1F9440;
   
+
 }
