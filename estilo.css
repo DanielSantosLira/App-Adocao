@@ -2,11 +2,35 @@
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: ;
+
+body {
+    margin: 960px;
+    width: 960px;
+    margin: auto;
+    box-sizing: border-box;
 }
 
-.button{
+div {
+
+    width: 850px;
+    height: 812px;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+
+p {
+    
+   ba
+    left: 27px;
+    top: 442px;
+    width: 130px;
+    height: 27;
+    color: #545454;
+    text-align: center;
+}
+
+.button {
     font-family: Arial;
     font-size: 30px;
     font-weight: bold;
@@ -14,11 +38,11 @@ body{
     padding-bottom: 15px;
     width: 270px;
     height: 62px;
-   text-align: center;
+    text-align: center;
     left: 53px;
     top: 646px;
     background-color: #1F9440;
     border-radius: 30px;
-    color:#ffffff ;
+    color: #ffffff;
 
 }
