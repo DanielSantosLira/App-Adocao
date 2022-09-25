@@ -5,3 +5,20 @@
 body{
     background-color: ;
 }
+
+.button{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 270px;
+    height: 62px;
+   text-align: center;
+    left: 53px;
+    top: 646px;
+    background-color: #1F9440;
+    border-radius: 30px;
+    color:#ffffff ;
+
+}
