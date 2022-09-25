@@ -3,19 +3,17 @@
     box-sizing: border-box;
 }
 body{
-   width:930px;
-}
+    
+   width:500px;
+   margin: auto;
+   padding: 20px;
+} 
 div{
-    text-align: center;
-    font-weight: 600;
-    height: 100%;
-    font-size: 20px;
-    font-family: Arial, sans-serif;
-    background-color:#ffffff;
    
-  
-  
-    padding: 20px;
+    margin: auto;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
 }
 .img{
     width: 200px;
@@ -26,10 +24,8 @@ div{
    
 }
 p{
-    
    font-size: 20px;
-   font-family: Arial;
-  
-    color: #1F9440;
+   padding:20px;
+   color:#1F9440
   
 }
