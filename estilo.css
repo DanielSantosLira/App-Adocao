@@ -20,9 +20,11 @@ h1{
     color:#1F9440 ;
 }
 p{
+    text-align: center;
     font-family: Arial,  sans-serif;
     font-size: 25px;
-    font-weight: bold;
+    font-weight: 600px;
+    margin-top: 7px;
     display: block;
     padding: 20px;
     color:#545454 ;
