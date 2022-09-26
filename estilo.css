@@ -2,12 +2,15 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
 header{
-    
+    position: absolute;
     text-align: center;
     background-size: cover;
     background-color: #ffff;
-    padding: 27px;
+   
+  
 }
 h1{
     text-align: center;
@@ -29,6 +32,14 @@ p{
     padding: 20px;
     color:#545454 ;
 
+}
+img{
+    padding: 27px;
+    width: 375px;
+    height: 346px;
+    left: 0px;
+    top: 0px;
+    border-radius: 50px;
 }
 
  button{
