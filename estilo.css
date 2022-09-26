@@ -4,20 +4,19 @@
 }
 
 body {
-    margin: 960px;
-    width: 960px;
     margin: auto;
-    box-sizing: border-box;
+    padding: 20px;
+    b
 }
 
 div {
 
-    width: 850px;
-    height: 812px;
-    display: block;
-    text-align: center;
+    margin: auto;
     font-size: 20px;
+    font-family: Arial;
+    text-align: center;
 }
+
 
 p {
     
@@ -29,8 +28,15 @@ p {
     color: #545454;
     text-align: center;
 }
+img{
+    width: 375px;
+    height: 346px;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+}
 
-.button {
+button {
     font-family: Arial;
     font-size: 30px;
     font-weight: bold;
