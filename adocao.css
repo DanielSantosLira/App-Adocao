@@ -3,31 +3,29 @@
     box-sizing: border-box;
 }
 
-body{
-    margin: 0;
-    background-position: 0%;
-    padding: 20px;
-}
-div {
-    width: 960px;
-    font-size: 700px;
-    font-family: Arial;
+body {
+    position: absolute;
     text-align: center;
-
+    background-size: cover;
+    background-color: #ffff;
 
 }
+
 
 
 h1 {
-    font-size: 30px;
-    font-family: Arial, sans-serif;
-    width: 195px;
-    height: 54px;
     text-align: center;
-    left: 88px;
-    top: 28px;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    width: 175px;
+    height: 54px;
+    top: 69px;
+    left: 100px;
+    position: relative;
+    
     color: #1F9440;
 }
+
 
 h4 {
     font-size: 25px;
@@ -42,45 +40,66 @@ h4 {
 
 
 
+
 p {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    margin-top: 7px;
+    display: block;
+    padding: 20px;
+    color: #545454;
+
+}
+
+label {
     width: 55px;
     height: 27px;
-    left: 164px;
-    top: 42px;
-    font-size: 15px;
-    padding: 25px;
+    top:164px;
+    left: 42px;
     color: #000000;
-
-
+ 
 }
-label{
-    font-family: Arial,  sans-serif;
-    font-size: 16px;
-    font-weight: bold;
-    display: block;
-    
-}
-input{
-  
+
+input {
+
     width: 292px;
     height: 34px;
-    background:#E9E9E9;;
-   left: 42px;
-   top: 270px;
- 
-   
-   
+    background: #E9E9E9;
+    
+    left: 42px;
+    top: 270px;
+
+
+
 }
 
 
-.button{
+.button {
     position: absolute;
     width: 270px;
     height: 62px;
     top: 514px;
     left: 53px;
-    background:#1F9440;
+    background: #1F9440;
     border: 50px;
     color: #ffffff;
-  
+
 }
+
+button {
+    font-size: 30px;
+    color: #FFFFFF;
+    width: 270px;
+    height: 62px;
+    top: 646px;
+    left: 53px;
+    background-color: #1F9440;
+    border-radius: 30px;
+
+
+}
+
+
+
+
