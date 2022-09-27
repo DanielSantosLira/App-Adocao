@@ -8,86 +8,66 @@ body {
     text-align: center;
     background-size: cover;
     background-color: #ffff;
-
+    padding: 20px;
 }
 
+h4 {
+    text-align: center;
+    width: 200px;
+    height: 41px;
+    left: 88px;
+    top: 28px;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+    color: #545454;
 
+}
 
 h1 {
     text-align: center;
-    font-size: 40px;
-    font-family: Arial, sans-serif;
     width: 175px;
     height: 54px;
-    top: 69px;
     left: 100px;
-    position: relative;
-    
+    top: 69px;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center;
     color: #1F9440;
 }
 
+form {
 
-h4 {
-    font-size: 25px;
+
     font-family: Arial, sans-serif;
-    width: 200px;
-    height: 41px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 27px;
     text-align: center;
-    left: 88px;
-    top: 28px;
-    color: #545454;
-}
 
-
-
-
-p {
-    text-align: center;
-    font-family: Arial, sans-serif;
-    font-size: 25px;
-    margin-top: 7px;
-    display: block;
-    padding: 20px;
-    color: #545454;
 
 }
 
 label {
     width: 55px;
     height: 27px;
-    top:164px;
     left: 42px;
+    top: 164px;
     color: #000000;
- 
+
 }
-
-input {
-
+input{
     width: 292px;
     height: 34px;
-    background: #E9E9E9;
-    
+    top: 191px;
     left: 42px;
-    top: 270px;
-
-
-
+    color: #E9E9E9;
 }
-
-
-.button {
-    position: absolute;
-    width: 270px;
-    height: 62px;
-    top: 514px;
-    left: 53px;
-    background: #1F9440;
-    border: 50px;
-    color: #ffffff;
-
-}
-
-button {
+button{
     font-size: 30px;
     color: #FFFFFF;
     width: 270px;
@@ -96,10 +76,7 @@ button {
     left: 53px;
     background-color: #1F9440;
     border-radius: 30px;
-
-
+    padding: 20PX;
+   
+   
 }
-
-
-
-
