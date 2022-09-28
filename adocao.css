@@ -14,7 +14,7 @@ body {
 
 
 h4 {
-    text-align: justify;
+   
     width: 200px;
     height: 41px;
     left: 88px;
@@ -50,7 +50,7 @@ form {
     font-size: 20px;
     line-height: 27px;
     text-align:left;
-
+   
 
 }
 
@@ -68,6 +68,7 @@ input{
     top: 191px;
     left: 42px;
     color: #E9E9E9;
+    
 }
 button{
     font-size: 30px;
@@ -78,7 +79,7 @@ button{
     left: 53px;
     background-color: #1F9440;
     border-radius: 30px;
-  
+   
    
    
 }
